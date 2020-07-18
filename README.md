@@ -9,7 +9,7 @@ I store my projects here (and on [GitLab](https://gitlab.com/sqyqh)). Most of th
 
 Follow me on [Twitter](https://twitter.com/sqyqh), you can also find me on [LinkedIn](https://linkedin.com/in/sqyqh) and read me on [DEV.to](https://dev.to/sqyqh).
 
-Let's code freedom!
+Let's code!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
